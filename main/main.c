@@ -7,11 +7,10 @@ int main(){
         setSleep(3600);
     }
 
-
 }
 
 void alrm(){
-    
+
 
 
 }
