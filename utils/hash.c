@@ -3,7 +3,7 @@
 #endif
 #include<string>
 
-string* fileHash(){
+string* fileHash(fp* file){
 
     
 }
