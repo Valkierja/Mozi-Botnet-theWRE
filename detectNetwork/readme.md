@@ -1,0 +1,1 @@
+detect local  network and internetwork

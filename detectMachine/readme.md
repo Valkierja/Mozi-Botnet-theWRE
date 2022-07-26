@@ -1,0 +1,1 @@
+detect machine self service and vuln
