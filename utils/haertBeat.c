@@ -5,8 +5,10 @@
 #include <fcntl.h>
 #include <unistd.h>
 #include <string.h>
+bool pingCheck(string* url);
 
-string* fileHash(fp* file){
-
-    
+string* outboundCheck(){
+    if (pingCheck("www.baidu.com") or pingCheck("www.google.com")){
+            //TODO set beacon to true
+    }
 }
