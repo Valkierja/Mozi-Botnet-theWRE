@@ -1,5 +1,5 @@
-#ifndef _WRE_HASH
-#define  _WRE_HASH
+#ifndef _WRE_HEART_BEAT_BEACON
+#define  _WRE_HEART_BEAT_BEACON
 #endif
 #include <stdio.h>
 #include <fcntl.h>
