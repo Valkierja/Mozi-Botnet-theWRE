@@ -1,5 +1,5 @@
 int main(){
-    //TODO another thread to alrm setSleep function
+    //TODO another thread to alarm setSleep function
     while(true){
         spareBeacon();
         detectMachine();
@@ -9,7 +9,7 @@ int main(){
 
 }
 
-void alrm(){
+void alarm(){
 
 
 
