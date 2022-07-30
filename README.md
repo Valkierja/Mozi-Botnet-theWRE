@@ -43,7 +43,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 - [ ] 去中心化的p2p平级通信协议实现
 
-- [ ] 对僵尸网络的指令下达与指令鉴定（json数据表，GPG私钥签名）（这点会成为查杀的指纹，因此本项目不设混淆）
+- [ ] 对僵尸网络的指令下达与指令鉴定（json数据包，GPG私钥签名）（这点会成为查杀的指纹，因此本项目不设混淆）
 
 - [ ] 添加从网上收集的iot通杀Nday payload与攻击exp
 
