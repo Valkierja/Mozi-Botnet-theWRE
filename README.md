@@ -37,7 +37,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 # TODO list
 
-- [ ] 整合goahead等轻型中间件到项目中
+- [ ] 整合goahead轻型中间件到项目中
 
 - [ ] 隧道与代理
 
