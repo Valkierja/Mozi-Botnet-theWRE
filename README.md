@@ -37,14 +37,14 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 # TODO list
 
-[ ] 整合goahead等轻型中间件到项目中
+- [ ] 整合goahead等轻型中间件到项目中
 
-[ ] 隧道与代理
+- [ ] 隧道与代理
 
-[ ] 去中心化的p2p平级通信协议实现
+- [ ] 去中心化的p2p平级通信协议实现
 
-[ ] 对僵尸网络的指令下达与指令鉴定（json数据表，GPG私钥签名）（这点会成为查杀的指纹，因此本项目不设混淆）
+- [ ] 对僵尸网络的指令下达与指令鉴定（json数据表，GPG私钥签名）（这点会成为查杀的指纹，因此本项目不设混淆）
 
-[ ] 添加从网上收集的iot通杀Nday payload与攻击exp
+- [ ] 添加从网上收集的iot通杀Nday payload与攻击exp
 
-[ ] 利用fofa API查找未被感染的设备
+- [ ] 利用fofa API查找未被感染的设备
