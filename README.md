@@ -39,7 +39,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 - [x] 整合goahead轻型中间件到项目中
 
-- [x] 整合轻型交叉编译环境到项目中
+- [ ] 整合轻型交叉编译环境到项目中
 
 - [ ] 隧道与代理
 
