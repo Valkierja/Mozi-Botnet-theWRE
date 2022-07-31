@@ -2,7 +2,7 @@
 
 This is a bot net implement. Here is [English README](https://github.com/KSroido/Mozi-Botnet-theWRE/blob/main/README_EN.md)
 
-用于自学安全知识的一个项目,模仿mozi僵尸网络实现
+用于自学安全知识的一个项目,模仿mozi僵尸网络实现(md5: 849b165f28ae8b1cebe0c7430f44aff3 , SHA256: c6f6ca23761292552e6ea5f12496dc9c73374be0c5f9d0b2142ca3ae0bb8fe14)
 
 本项目仅用于自学,请勿用于任何非法用途,任何基于本项目及其改编版本的项目进行的网络攻击与原作者无关
 
