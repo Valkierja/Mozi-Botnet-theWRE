@@ -1,6 +1,6 @@
 # WRE-Botnet
 
-reinvent the wheel for the  purpose of learning bot-net.This project simulate mozi-botnet.
+reinvent a wheel for the  purpose of learning bot-net.This project simulate mozi-botnet.
 
 **DISCLAIMER:** **DO NOT** use this project for real-world attacking, if so the original programmer have nothing to do with that and take no responsibility.
 
