@@ -1,6 +1,6 @@
 # WRE-Botnet
 
-reinvent a wheel for the  purpose of learning bot-net.This project simulate mozi-botnet.
+reinvent a wheel for the  purpose of learning bot-net. This project simulate mozi-botnet virus (md5: 849b165f28ae8b1cebe0c7430f44aff3 , SHA256: c6f6ca23761292552e6ea5f12496dc9c73374be0c5f9d0b2142ca3ae0bb8fe14).
 
 **DISCLAIMER:** **DO NOT** use this project for real-world attacking, if so the original programmer have nothing to do with that and take no responsibility.
 
