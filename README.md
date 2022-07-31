@@ -5,6 +5,8 @@
 
 也正是基于以上原因, 本项目未做任何免杀与混淆,请悉知
 
+欢迎合作，欢迎开issue和PR
+
 # 僵尸病毒感染数据流示意图与感染流程
 
 [![jxIz3q.png](https://s1.ax1x.com/2022/07/26/jxIz3q.png)](https://imgtu.com/i/jxIz3q)
