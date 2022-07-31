@@ -7,8 +7,7 @@ reinvent a wheel for the  purpose of learning bot-net. This project simulate moz
 we are willing to answer issues and welcome to PR
 # the data-flow in the whole botnet and how's it working
 
-[![jxIz3q.png](https://s1.ax1x.com/2022/07/26/jxIz3q.png)](https://imgtu.com/i/jxIz3q)
-
+[vF1er6.png](https://s1.ax1x.com/2022/07/31/vF1er6.png)
 any one who has certain GPG private KEY can order the whole botnet and upload signed update packet to the botnet
 
 therefore, the original programmer is safe to make an order without expose IP bucause it's a P2P network: everyone have the exactly same data, everyone can be the author.
