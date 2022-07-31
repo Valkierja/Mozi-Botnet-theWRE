@@ -1,6 +1,6 @@
 # WRE-Botnet
 
-This is a bot net implement. Here is [English README](https://github.com/KSroido/Mozi-Botnet-theWRE/README_EN.md)
+This is a bot net implement. Here is [English README](https://github.com/KSroido/Mozi-Botnet-theWRE/blob/main/README_EN.md)
 
 用于自学安全知识的一个项目,模仿mozi僵尸网络实现
 
